@@ -1,5 +1,5 @@
 /* GNB */
-body {background-color:#1e2730;height: 100%;}
+body {background-color:#FFFFFF;height: 100%;}
 h3 {font-size: 15px;}
 h4 {font-size:27px;display: block;width:200px;line-height: 30px;color: #ffffff;font-weight: normal;}
 p {font-size:14px;line-height: 1.8}
@@ -120,6 +120,15 @@ label {float: left;width: 85px;height:30px;font-size: 14px;line-height: 30px;}
 
 /*출력-출력 이력*/
 
+/*정보*/
+.information-table-wrapper .btn-wrapper {width:864px; margin-top:10px;}
+.information-table-wrapper .btn-wrapper .btn {height: 24px;padding: 0 8 0 8 !important;border: 1px solid #1e2730;color:#1e2730;font-size: 14px;padding: 0;overflow: hidden;float: right;line-height: 24px;display: inline-block;}
+.information-table-wrapper td .btn {height: 24px;padding: 0 8 0 8 !important;border: 1px solid #1e2730;color:#1e2730;font-size: 14px;padding: 0;overflow: hidden;line-height: 24px;display: inline-block;margin: 0 5 0 5 !important;}
+.information-table-wrapper .t_list {width: 864px;height: 208px;overflow: hidden;float: left;}
+.information-table-wrapper table {width: 864px;}
+.information-table-wrapper tr {font-size: 14px; line-height: 14px; border-bottom: 1px solid #8e9397;}
+.information-table-wrapper th {padding: 5px; border: 1px solid #8e9397; background-color: #dfdfdf;}
+.information-table-wrapper td {padding: 5px; border: 1px solid #8e9397; cursor: pointer;}
 /*정보-사용자 정보*/
 
 /*정보-거래처 정보*/
